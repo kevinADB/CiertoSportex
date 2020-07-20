@@ -1,0 +1,54 @@
+.redes img{
+
+	border-radius: 100%;
+	padding:4px;
+	transition: all 0.1s;
+}
+.redes a:hover img{
+	background: grey;
+
+}
+.flecha img{
+
+	border-radius: 100%;
+	transition: all 0.1s;
+}
+.flecha a:hover img{
+	background: red;
+
+}
+.flechaa img{
+
+	border-radius: 100%;
+	transition: all 0.1s;
+}
+.flechaa a:hover img{
+	background: grey;
+
+}
+.pie{
+	background: #8FFB51;
+}
+#contac{
+	color: #DC300A;
+}
+header{
+	background: #8FFB51;
+}
+#titu{
+    color: #680489;
+    font-family: Goudy Stout;
+    font-size: 13px;
+
+}
+#navbarDropdown{
+	color: black;
+	font-family: Arial Black;
+}
+.oferta{
+	color: #cf3476;
+	font-family: Rockwell Extra Bold;
+	font-weight: bold;
+
+}
+
